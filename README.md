@@ -32,10 +32,3 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 
 5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada? 
 ![alt text](/img/Q5.png)
-
-Contato:
-Gustavo Saturnino
-
-[LinkedIn](https://www.linkedin.com/ingustavo-araujo-31a515250)  
-
-[GitHub](https://github.com/Gustavo-Saturnino-1997/Target-RP)

@@ -35,5 +35,7 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 
 Contato:
 Gustavo Saturnino
-[LinkedIn](www.linkedin.com/ingustavo-araujo-31a515250)  
+
+[LinkedIn](https://www.linkedin.com/ingustavo-araujo-31a515250)  
+
 [GitHub](https://github.com/Gustavo-Saturnino-1997/Target-RP)
